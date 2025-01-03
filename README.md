@@ -24,7 +24,7 @@ A robust MERN stack application designed for seamless job application and manage
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/naman-sethiya/Job-Application-Portal.git
+git clone [https://github.com/naman-sethiya/Job-Application-Portal.git](https://github.com/afcfelix/job_application_portal.git)
 ```
 
 ### 2. Backend Setup
