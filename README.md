@@ -7,7 +7,7 @@ A robust MERN stack application designed for seamless job application and manage
 ### User Features
 - **Job Listings:** Explore detailed job postings categorized by title, location, and availability.
 - **Application Tracking:** Apply to jobs and monitor the status of applications in real time.
-- **Duplicate Prevention:** Users cannot apply to the same job twice.
+
 
 ### Admin Features
 - **Job Management:** Post, edit, and delete job listings with complete details (title, salary, location, etc.).
